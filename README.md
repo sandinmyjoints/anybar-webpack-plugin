@@ -47,3 +47,9 @@ $ ANYBAR_TITLE=other ANYBAR_PORT=1739 open -na AnyBar
 ```
 
 And specify `port` in each webpack build config.
+
+<img width="74" alt="Screen Shot 2021-06-25 at 19 08 14" src="https://user-images.githubusercontent.com/606772/123645934-c27e9600-d7f4-11eb-868c-02b71e8136ec.png">
+- Hollow = build/watch is not running
+- Yellow = build/watch is compiling
+- Green = last watch compilation succeeded; watching for changes
+- Red exclamation (not picture) = last compilation errored
