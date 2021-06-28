@@ -9,6 +9,6 @@
   },
   "description": "See the status of webpack builds in macOS menubar via Anybar.",
   "keywords": ["anybar", "webpack", "macos"],
-  "homepage": "",
-  "bugs": ""
+  "homepage": "https://github.com/sandinmyjoints/anybar-webpack-plugin/",
+  "bugs": "https://github.com/sandinmyjoints/anybar-webpack-plugin/issues"
 }
