@@ -1,6 +1,6 @@
 {
   "name": "anybar-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "William Bert <william.bert@gmail.com>",
   "license": "ISC",
@@ -8,7 +8,11 @@
     "schema-utils": "3.0.0"
   },
   "description": "See the status of webpack builds in macOS menubar via Anybar.",
-  "keywords": ["anybar", "webpack", "macos"],
+  "keywords": [
+    "anybar",
+    "webpack",
+    "macos"
+  ],
   "homepage": "https://github.com/sandinmyjoints/anybar-webpack-plugin/",
   "bugs": "https://github.com/sandinmyjoints/anybar-webpack-plugin/issues"
 }
