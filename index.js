@@ -61,7 +61,7 @@ class AnybarWebpackPlugin {
       });
     });
 
-    process.on('beforeExit', () => {
+    process.once('beforeExit', () => {
       anybarSocket.ref();
       this.stop(() => {
         anybarSocket.unref();
