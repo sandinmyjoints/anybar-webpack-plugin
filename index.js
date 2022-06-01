@@ -76,7 +76,7 @@ class AnybarWebpackPlugin {
         0,
         message.length,
         this.options.port,
-        'localhost',
+        null,
         cb
       );
     else cb();
