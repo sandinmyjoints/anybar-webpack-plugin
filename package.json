@@ -1,6 +1,6 @@
 {
   "name": "anybar-webpack-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "author": "William Bert <william.bert@gmail.com>",
   "license": "ISC",
